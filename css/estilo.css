@@ -2,6 +2,10 @@ body{
 	background-color: blanchedalmond;
 }
 
+h1{
+	text-align: center;
+}
+
 #cachorro {
 	width: 8em;
 	margin-top: 400px;
